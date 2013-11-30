@@ -1,12 +1,4 @@
-call pathogen#infect()
-" call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
-
-filetype off
-syntax on
-filetype plugin indent on
-
-"set nocp
+set nocp
 
 set nu
 set showmatch
@@ -43,8 +35,6 @@ set smarttab " 当使用 et 将 Tab 替换为空格之后，按下一个 Tab 键
 
 set hls 
 syntax enable 
-
-filetype on
 
 set t_Co=256
 let g:solarized_termcolors=256
