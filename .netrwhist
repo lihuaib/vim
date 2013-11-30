@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/lee/Desktop/Project/yt/svn/trunk_flashme/trunk/merchant_server/htdoc/products/mobilecharge/css'
+let g:netrw_dirhist_2='/home/lee/Desktop/test/.git'
+let g:netrw_dirhist_3='/home/lee/Desktop/Project/yt/svn/ezc_client/trunk/rates/b2c/idt'
+let g:netrw_dirhist_4='/home/lee/Desktop/Project/yt/documents/ezc_client'
+let g:netrw_dirhist_5='/home/lee/Project/vim/autoload/autoload'
